@@ -1,14 +1,14 @@
 ## Last Week's Accomplishments
 
-> This past week, I was able to log into and out of SIS with Postman. I also learned about how to run the expo app for the project.
+> This past week, I was able to log into and out of SIS with Postman. I also learned about how to run the expo app for the project. I also wrote a routine for logging out and for accessing the student menu.
 
 ## This Week's Plan
 
-> After my accomplishments from last week, I plan to get my SIS account unlocked after being banned for logging in with Postman, and start work on logging into and out of SIS through the app.
+> After my accomplishments from last week, I plan to work on learning node.js properly, instead of just winging it entirely. 
 
 ## Anything Blocking?
 
-> I've been locked out of SIS, so I can't actually make progress on moving forward with Postman and SIS. 
+> I think I've been relying on existing code heavily to write code, so I'm going to try to look into node.js code.
 
 ## Notes
 
